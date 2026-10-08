@@ -157,7 +157,7 @@ NNODES=4 NODE_RANK=0 MASTER_ADDR=host0 bash scripts/run.sh experiment=...    # o
 - [x] Training code of the neural renderer: bidirectional, autoregressive, and Adversarial Forcing
 - [x] Streaming inference with a bounded KV cache and serving kernels
 - [x] Technical report and blog release
-- [ ] Neural renderer checkpoints
+- [x] Neural renderer checkpoints: [MirroS-Lab/AgentGarten-renderer](https://huggingface.co/MirroS-Lab/AgentGarten-renderer)
 - [ ] Real-time rendering engine: streaming server and interactive frontend
 - [ ] Code worlds and the agent practice loop: rounds of play, review, and playbooks
 
