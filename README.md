@@ -172,3 +172,19 @@ We sincerely thank the teams behind the following projects for making their work
 | Distillation | [DMD2](https://arxiv.org/abs/2405.14867), [Self Forcing](https://arxiv.org/abs/2506.08009), [rCM](https://github.com/NVlabs/rcm) |
 
 _... and many other excellent open-source projects._
+
+
+## Citation
+
+If you find AgentGarten useful, please cite:
+
+```bibtex
+@misc{mirros2026evolvingagents,
+    title  = {AgentGarten: Code Worlds for Evolving Agents},
+    author = {{MirroS Team}},
+    year   = {2026},
+    month  = {Oct},
+    url    = {https://mirros.ai/blog/worlds-for-evolving-agents},
+    note   = {Blog post}
+}
+```
