@@ -183,7 +183,7 @@ _... and many other excellent open-source projects._
 
 ## Citation
 
-If you find S-Space useful, please cite:
+If you find AgentGarten useful, please cite:
 
 ```bibtex
 @misc{mirros2026evolvingagents,
