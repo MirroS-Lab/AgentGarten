@@ -145,13 +145,6 @@ manifest:
  "caption": "A car drives along a coastal road.", "depth_scale": 1.0}
 ```
 
-Each row is a prepared clip, read as is: every modality has 81 frames at
-480x832 and 16 FPS, aligned frame by frame. `depth` is a `[T, H, W]` metric
-depth array, and `normal` is an RGB-encoded normal video or a `[T, H, W, 3]`
-array. A clip of the wrong shape, or with non-finite or negative depth, is an
-error. Point `WM_TRAIN_MANIFEST` and `WM_VAL_MANIFEST` in `.env` at the
-manifests.
-
 **Launch.**
 
 ```bash
