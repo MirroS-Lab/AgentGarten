@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mirros.ai/report/agent-garten.pdf"><img alt="Paper" src="https://img.shields.io/badge/Paper-Tech%20Report-b31b1b"></a>
+  <a href="https://arxiv.org/abs/2610.12374"><img alt="Paper" src="https://img.shields.io/badge/Paper-Tech%20Report-b31b1b"></a>
   <a href="https://mirros-lab.github.io/agent-garten"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-5F38FF"></a>
   <a href="https://mirros.ai/blog/worlds-for-evolving-agents"><img alt="Blog" src="https://img.shields.io/badge/MirroS-Blog-745AE8"></a>
   <a href="https://huggingface.co/MirroS-Lab/AgentGarten-renderer"><img alt="Checkpoints" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoints-FFD21E"></a>
