@@ -179,12 +179,10 @@ _... and many other excellent open-source projects._
 If you find AgentGarten useful, please cite:
 
 ```bibtex
-@misc{mirros2026evolvingagents,
-    title  = {AgentGarten: Code Worlds for Evolving Agents},
-    author = {{MirroS Team}},
-    year   = {2026},
-    month  = {Oct},
-    url    = {https://mirros.ai/blog/worlds-for-evolving-agents},
-    note   = {Blog post}
+@article{mirros2026agentgarten,
+  title   = {AgentGarten: Code Worlds for Evolving Agents},
+  author  = {{MirroS Team}},
+  journal = {arXiv preprint arXiv:2610.12374},
+  year    = {2026}
 }
 ```
