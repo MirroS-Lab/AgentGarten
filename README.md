@@ -70,6 +70,17 @@ pip install -e '.[data,media,wandb,te]'
 cp .env.example .env    # weights, manifests, output root, interpreter
 ```
 
+On a CUDA 13.2 host (for example a DGX), `scripts/setup.sh` does the install and
+the weight download below, and fills in `.env`:
+
+```bash
+bash scripts/setup.sh setup      # venv, CUDA 13.2 torch, wm, GPU check
+bash scripts/setup.sh download   # renderer checkpoint and Wan 2.2 VAE
+```
+
+`WITH_BASE=1` also downloads Cosmos3-Nano (training only); see the header of the
+script for the other options.
+
 ### Weights
 
 Training starts from [Cosmos3-Nano](https://huggingface.co/nvidia/Cosmos3-Nano)

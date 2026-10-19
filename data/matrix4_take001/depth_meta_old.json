@@ -1,0 +1,7 @@
+{
+  "fps": 48.0,
+  "frames": 399,
+  "height": 480,
+  "note": "Static geometry and the player's own car are exact: the car's starting pose is recovered from frame 0's recorded camera and then driven with the take's recorded inputs.jsonl, not autodrive. Other traffic/pedestrians are not replayed from the original take and will not match it (see file header comment).",
+  "width": 864
+}

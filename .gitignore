@@ -10,3 +10,5 @@ outputs/
 checkpoints/
 weights/
 wandb/
+data/**/depth.npy
+data/**/depth_old.npy
